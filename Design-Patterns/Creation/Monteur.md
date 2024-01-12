@@ -14,7 +14,7 @@ Peut introduire une complexité supplémentaire dans le code.
 Nécessite la mise en place d'une interface ou d'une classe abstraite pour le constructeur.
 
 ## Représentation UML : 
-![Alt text](https://media.discordapp.net/attachments/884824217110061117/1195359425448390697/image.png?ex=65b3b437&is=65a13f37&hm=2d6c59e1667f772efb86d49f8965678bc078030458c8752a9752e93f0c523ea3&=&format=webp&quality=lossless)
+![Alt text](https://media.discordapp.net/attachments/884824217110061117/1195391308546723910/image.png?ex=65b3d1e9&is=65a15ce9&hm=e60430894e7b3136651c303a40b04423e7dc03486208d33023dbc2be3d1b6abe&=&format=webp&quality=lossless&width=910&height=670)
 
 ## Implémentation en PHP :
 ``` php
