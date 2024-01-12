@@ -1,3 +1,5 @@
+# Prototype(Clone)
+
 # Design pattern de manière globale :
 
 # Avantages :
