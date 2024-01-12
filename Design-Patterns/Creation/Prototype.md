@@ -19,7 +19,7 @@ Les objets clonés peuvent nécessiter une initialisation supplémentaire.
 ``` php
 <?php
 
-class ConcretePrototype
+class Prototype
 {
     private $name;
 
@@ -40,7 +40,7 @@ class ConcretePrototype
 }
 
 // Usage
-$prototype = new ConcretePrototype('Prototype Object');
+$prototype = new Prototype('Prototype Object');
 $clone = $prototype->duplicate();
 
 echo $prototype->getName()."\n";
