@@ -14,7 +14,7 @@ L'Adapter est un design pattern structurel qui permet à des interfaces incompat
 3. **Compréhension** : Nécessite une compréhension claire du fonctionnement des deux interfaces pour implémenter correctement l'adaptateur.
 
 ## Représentation UML :
-![Image](https://media.discordapp.net/attachments/884824217110061117/1195348096331288596/image.png)
+![Image](https://media.discordapp.net/attachments/884824217110061117/1195388637173514260/image.png)
 ## Implémentation en PHP :
 ```php
 // Interface cible
