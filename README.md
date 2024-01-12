@@ -1,3 +1,2 @@
 # DESIGN PATTERN
-
-Adrien
+## Gang Of Four
