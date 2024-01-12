@@ -1,11 +1,11 @@
 # Prototype(Clone)
 
-# Design pattern de manière globale :
+## Design pattern de manière globale :
 
-# Avantages :
+## Avantages :
 
-# Inconvénients : 
+## Inconvénients : 
 
-# Représentation UML : 
+## Représentation UML : 
 
-# Implémentation en PHP :
+## Implémentation en PHP :
