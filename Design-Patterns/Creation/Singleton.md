@@ -1,3 +1,5 @@
+# Singleton
+
 # Design pattern de manière globale :
 L'objectif est de restreindre l'instanciation d'une classe à un seul objet.
 
