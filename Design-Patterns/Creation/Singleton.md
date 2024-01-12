@@ -10,7 +10,7 @@ Permet de garantir qu'une classe ne possède qu'une seule instance, tout en four
 + code, pas forcément explicite
 
 ## Représentation UML : 
-![Alt text](https://www.tutorialspoint.com/design_pattern/images/singleton_pattern_uml_diagram.jpg "a title")
+![Alt text]([https://www.tutorialspoint.com/design_pattern/images/singleton_pattern_uml_diagram.jpg](https://discord.com/channels/@me/884824217110061117/1195359425725206578) "a title")
 
 ## Implémentation en PHP :
 
@@ -20,16 +20,16 @@ Permet de garantir qu'une classe ne possède qu'une seule instance, tout en four
 class Singleton
 {
 
-    private static $instances = [];
+    private static $instance = [];
 
     public static function getInstance(): Singleton
     {
         $cls = static::class;
-        if (!isset(self::$instances[$cls])) {
-            self::$instances[$cls] = new static();
+        if (!isset(self::$instance[$cls])) {
+            self::$instance[$cls] = new static();
         }
 
-        return self::$instances[$cls];
+        return self::$instance[$cls];
     }
 
 }
