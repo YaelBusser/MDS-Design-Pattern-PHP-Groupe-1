@@ -1,3 +1,5 @@
+# Fabrique(Factory Method)
+
 # Design pattern de manière globale :
 
 # Avantages :
