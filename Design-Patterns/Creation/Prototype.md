@@ -14,6 +14,7 @@ La définition des classes et des prototypes peut devenir complexe.
 Les objets clonés peuvent nécessiter une initialisation supplémentaire.
 
 ## Représentation UML : 
+![Alt text](https://media.discordapp.net/attachments/884824217110061117/1195367846037958767/image.png?ex=65b3bc0f&is=65a1470f&hm=395968b6c8e6b377a157a3e77bc3604f84cd7e06971f303a76b738e3ac7e357c&=&format=webp&quality=lossless)
 
 ## Implémentation en PHP :
 ``` php
