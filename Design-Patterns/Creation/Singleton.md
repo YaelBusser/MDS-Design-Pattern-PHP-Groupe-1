@@ -10,7 +10,7 @@ Permet de garantir qu'une classe ne possède qu'une seule instance, tout en four
 + code, pas forcément explicite
 
 ## Représentation UML : 
-
+![UML]([image.png](https://www.tutorialspoint.com/design_pattern/images/singleton_pattern_uml_diagram.jpg)https://www.tutorialspoint.com/design_pattern/images/singleton_pattern_uml_diagram.jpg "UML du design pattern")
 
 ## Implémentation en PHP :
 
