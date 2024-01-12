@@ -14,3 +14,31 @@ Permet de garantir qu'une classe ne possède qu'une seule instance, tout en four
 
 ## Implémentation en PHP :
 
+``` php
+<?php
+
+class Singleton
+{
+
+    private static $instances = [];
+
+    public static function getInstance(): Singleton
+    {
+        $cls = static::class;
+        if (!isset(self::$instances[$cls])) {
+            self::$instances[$cls] = new static();
+        }
+
+        return self::$instances[$cls];
+    }
+
+}
+
+$s1 = Singleton::getInstance();
+$s2 = Singleton::getInstance();
+if ($s1 === $s2) {
+    echo "Le singleton a fonctionné ! ça a fait une instance";
+} else {
+    echo "Singleton non fonctionnel.";
+}
+```
