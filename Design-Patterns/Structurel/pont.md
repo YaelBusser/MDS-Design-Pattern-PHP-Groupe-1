@@ -14,6 +14,7 @@ Le Pont est un design pattern structurel qui sépare l'abstraction d'une entité
 3. **Coût initial** : Le coût initial de mise en place de la structure peut être plus élevé en raison de la planification supplémentaire nécessaire.
 
 ## Représentation UML :
+![Image](https://media.discordapp.net/attachments/884824217110061117/1195356317636907139/image.png)
 
 ## Implémentation en PHP :
 ```php
