@@ -9,7 +9,7 @@ Réduit considérablement la RAM
 - Code qui devient compliqué
   
 # Représentation UML : 
-<img src="C:\Users\mrtbg\OneDrive\Documents\DEV\COURS\B3DEV\Design Pattern\flyWeight\flyWeight.png"/>
+![Diagramme UML](C:\Users\mrtbg\OneDrive\Documents\DEV\COURS\B3DEV\Design Pattern\flyWeight\flyWeight.png)
 
 # Implémentation en PHP :
 ``` php
