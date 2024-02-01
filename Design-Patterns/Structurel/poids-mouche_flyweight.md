@@ -9,7 +9,7 @@ Réduit considérablement la RAM
 - Code qui devient compliqué
   
 # Représentation UML : 
-![Diagramme UML](Design-Patterns/Structurel/flyWeight.png)
+![Diagramme UML](flyWeight.png)
 
 # Implémentation en PHP :
 ``` php
