@@ -126,3 +126,5 @@ creerEnsembleMeubles(new FabriqueVictorienne());
 echo "\nCréation d'un ensemble de meubles Art Déco :\n";
 creerEnsembleMeubles(new FabriqueArtDeco());
 ```
+Ce script php retourne : 
+![Alt text](https://media.discordapp.net/attachments/884824217110061117/1202930429242511360/image.png?ex=65cf3f43&is=65bcca43&hm=3fc9585171d2f61612aaf74cf1bdc71518e1bbc1904845279eb841cf90deea06&=&format=webp&quality=lossless)

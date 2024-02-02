@@ -41,9 +41,11 @@ class Prototype
 }
 
 // Usage
-$prototype = new Prototype('Prototype Object');
+$prototype = new Prototype('Objet Prototype');
 $clone = $prototype->duplicate();
 
 echo $prototype->getName()."\n";
 echo $clone->getName(); 
 ```
+Ce script php retourne : 
+![Alt text](https://media.discordapp.net/attachments/884824217110061117/1202931245416316968/image.png?ex=65cf4006&is=65bccb06&hm=35c6d0e14394449e295c6fb5a690c97f84ee648d26b2b790fb4fd5dbb3a16d26&=&format=webp&quality=lossless)

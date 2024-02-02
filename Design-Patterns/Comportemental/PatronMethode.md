@@ -65,3 +65,6 @@ function utiliserAlgorithme(Algorithme $algorithme): void {
 // Simulation
 utiliserAlgorithme(new AlgorithmeConcret());
 ```
+Ce script php retourne : 
+![Alt text](https://media.discordapp.net/attachments/884824217110061117/1202931868828307456/image.png?ex=65cf409a&is=65bccb9a&hm=092f18e9885221f14c975e3ca2be378e87f6b47a7aa1f7dd6c90d63cd44030d5&=&format=webp&quality=lossless)
+

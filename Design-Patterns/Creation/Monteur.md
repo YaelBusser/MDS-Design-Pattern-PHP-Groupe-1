@@ -85,3 +85,6 @@ $ordinateur = $constructeur->getResult();
 echo "Ordinateur :\n";
 $ordinateur->spécifications();
 ```
+Ce script php retourne : 
+![Alt text](https://media.discordapp.net/attachments/884824217110061117/1202930763314765844/image.png?ex=65cf3f93&is=65bcca93&hm=d601e7dbf16acfad7eb4a290adec4c715c60a2bac53d94c40d3a70793d447c4c&=&format=webp&quality=lossless)
+

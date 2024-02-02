@@ -42,3 +42,5 @@ if ($s1 === $s2) {
     echo "Singleton non fonctionnel.";
 }
 ```
+Ce script php retourne : 
+![Alt text](https://media.discordapp.net/attachments/884824217110061117/1202931434784956516/image.png?ex=65cf4033&is=65bccb33&hm=511d9b7f9671ee122b901671412f9a2b35e1527dd34109a3b9871bebade00491&=&format=webp&quality=lossless)
