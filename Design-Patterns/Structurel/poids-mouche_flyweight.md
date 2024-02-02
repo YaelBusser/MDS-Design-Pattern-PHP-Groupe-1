@@ -115,13 +115,7 @@ echo $tshirt3->displayInfo() . PHP_EOL;
 
 # Rendu du code
 ```
-List Collection:
-Item 1
-Item 2
-Item 3
-
-Stack Collection:
-Item A
-Item B
-Item C
+Couleur: rouge, Taille: M, Description: Cool T-Shirt, Image: image.png, Prix: 19.99
+Couleur: bleu, Taille: L, Description: Cool T-Shirt, Image: image.png, Prix: 19.99
+Couleur: vert, Taille: S, Description: Cool T-Shirt, Image: image.png, Prix: 19.99
 ```
