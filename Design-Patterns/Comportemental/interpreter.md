@@ -14,7 +14,7 @@ L'Interpréteur est un design pattern comportemental qui définit une représent
 3. **Difficulté de débogage** : Les erreurs dans l'interprétation peuvent être difficiles à tracer et à corriger.
 
 ## Représentation UML :
-![Image Interpréteur UML](URL_vers_l'image_UML)
+![Image Interpréteur UML](https://media.discordapp.net/attachments/884824217110061117/1203002799143784499/image.png?ex=65cf82aa&is=65bd0daa&hm=1ec72ad6dd6053cb89d604cec8acb40484095b7bb2f5fa13cff2ce1e926099f4&=&format=webp&quality=lossless&width=786&height=588)
 
 ## Implémentation en PHP :
 ```php
