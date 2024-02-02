@@ -14,7 +14,7 @@ Le Visiteur est un design pattern comportemental qui permet d'ajouter de nouvell
 3. **Complexité** : Peut rendre le code plus complexe et plus difficile à comprendre pour les nouveaux développeurs.
 
 ## Représentation UML :
-![Image Visiteur UML](URL_vers_l'image_UML)
+![Image Visiteur UML](https://media.discordapp.net/attachments/884824217110061117/1202977583218556970/image.png?ex=65cf6b2e&is=65bcf62e&hm=7533658e294853b8785ba0ecafa3ad9beeaed20599d1feabdbcf9ba124dea4fc&=&format=webp&quality=lossless&width=648&height=588)
 
 ## Implémentation en PHP :
 ```php
