@@ -42,6 +42,7 @@ Nous allons prendre l'exemple d'un éditeur de texte où l'utilisateur écrit un
 revenir à l'avant dernière sauvegarde du texte mais il supprime avant la dernière sauvegarde du texte.
 Ce qui fait donc que l'avant dernière sauvegarde du texte devient la dernière sauvegarde.
 Voici un exemple de structure UML de cet exemple.
+
 ![UML Médiateur](https://i.ibb.co/nR38k44/UML-momento.png)
 
 ## Implémentation en PHP
