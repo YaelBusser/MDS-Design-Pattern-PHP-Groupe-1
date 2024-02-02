@@ -45,10 +45,9 @@ des classes.
 
 ## Représentation UML
 
-Nous allons prendre l'exemple suivant : On utilise une lampe pour représenter le contexte, avec deux états possibles :
-allumé (OnState) et éteint (
-OffState). La lampe peut être allumée ou éteinte, et les actions (turnOn et turnOff) modifient l'état de la lampe en
-conséquence.
+Nous allons prendre l'exemple suivant : On doit se rendre à l'aéroport. On peut prendre un bus,
+commander un taxi ou monter à vélo. Ce sont les stratégies de transport. On peut choisir l'une des stratégies en
+fonction de facteurs tels que les contraintes budgétaires ou de temps.
 
 Voici un exemple de structure UML de cet exemple.
 
