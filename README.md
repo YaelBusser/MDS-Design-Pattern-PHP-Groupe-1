@@ -17,8 +17,8 @@ Ces Design Patterns sont classés en trois catégories.
 - Comportementaux : Les patrons comportementaux s’occupent des algorithmes et de la répartition des responsabilités entre les objets.
 
 ## 4. Organiser les DP par type de DP. Pour chacun :
-### Création
-#### 1. Fabrique
+### <u>Création</u>
+#### [1. Fabrique](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Creation/Fabrique.md)
 #### 2. Fabrique Abstraite
 #### 3. Monteur
 #### 4. Prototype
