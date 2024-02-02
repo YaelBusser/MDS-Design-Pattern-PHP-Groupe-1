@@ -17,39 +17,31 @@ Ces Design Patterns sont classés en trois catégories.
 - Comportementaux : Les patrons comportementaux s’occupent des algorithmes et de la répartition des responsabilités entre les objets.
 
 ## 4. Organiser les DP par type de DP. Pour chacun :
-### __Création__
+### Création
 #### [1. Fabrique](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Creation/Fabrique.md)
 #### [2. Fabrique Abstraite](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Creation/FabriqueAbstraite.md)
 #### [3. Monteur](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Creation/Monteur.md)
-#### 4. Prototype
-#### 5. Singleton
+#### [4. Prototype](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Creation/Prototype.md)
+#### [5. Singleton](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Creation/Singleton.md)
 
 ### Structurels
-#### 1. Adaptateur
-#### 2. Pont
-#### 3. Composite
-#### 4. Décorateur
-#### 5. Façade
-#### 6. Poids mouche
-#### 7. Procuration
+#### [1. Adaptateur](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Structurel/adaptateur.md)
+#### [2. Pont](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Structurel/pont.md)
+#### [3. Composite](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Structurel/composite.md)
+#### [4. Décorateur](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Structurel/decorateur.md)
+#### [5. Façade](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Structurel/facade.md)
+#### [6. Poids mouche](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Structurel/poids-mouche_flyweight.md)
+#### [7. Procuration](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Structurel/procuration_proxy.md)
 
 ### Comportementaux
-#### 1. Chaîne de responsabilité
-#### 2. Commande 
-#### 3. Itérateur
-#### 4. Médiateur
-#### 5. Mémento
-#### 6. Observateur
-#### 7. Etat
-#### 8.Stratégie
-#### 9. Patron de méthode
-#### 10. Visiteur
-#### 11. Interpréteur
-    
-## 6. Expliquer et présenter le design pattern de manière globale d'abord (conceptuellement parlant, théoriquement parlant).
-
-## 7. Expliquer les avantages et inconvénients du DP en question
-
-## 8. Réaliser une représentation UML du DP
-
-## 9. Dans la foulée présenter une implémentation du design pattern dans le langage de votre groupe si possible.
+#### [1. Chaîne de responsabilité](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/Cha%C3%AEne-responsabilit%C3%A9_Responsibility-Chain.md)
+#### [2. Commande](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/Commande_Command.md)
+#### [3. Itérateur](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/iterateur_iterator.md)
+#### [4. Médiateur](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/Mediateur.md)
+#### [5. Mémento](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/Memento.md)
+#### [6. Observateur](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/Observer.md)
+#### [7. Etat](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/Etat.md)
+#### [8.Stratégie](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/Strategy.md)
+#### [9. Patron de méthode](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/PatronMethode.md)
+#### [10. Visiteur](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/visiteur.md)
+#### [11. Interpréteur](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/interpreter.md)
