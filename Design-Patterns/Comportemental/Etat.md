@@ -14,7 +14,7 @@ L'état d'un objet est encapsulé dans des classes distinctes, ce qui facilite l
 ### 2. Simplification des transitions d'état
 
 Le pattern État simplifie les transitions d'état en les modélisant sous forme de classes, évitant ainsi une multitude de
-conditions.L
+conditions.
 
 ### 3. Facilité d'ajout de nouveaux états
 
