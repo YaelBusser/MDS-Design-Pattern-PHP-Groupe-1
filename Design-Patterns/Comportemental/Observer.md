@@ -46,7 +46,6 @@ Voici un exemple de structure UML de cet exemple.
 ![UML Observer](https://i.ibb.co/TB66b8x/UML-observer.png)
 
 ## Implémentation en PHP
-
 ```php
 <?php
 
