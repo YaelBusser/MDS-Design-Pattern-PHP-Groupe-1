@@ -3,10 +3,9 @@
 ## Définition
 
 Le design pattern Observer est un patron de conception comportemental qui définit une dépendance entre objets de manière
-à ce
-que lorsqu'un objet change d'état, tous ses dépendants en soient notifiés et mis à jour automatiquement. Cela permet
-d'établir un couplage lâche entre les sujets (objets qui changent d'état) et les observateurs (objets qui réagissent à
-ces changements).
+à ce que lorsqu'un objet change d'état, tous ses dépendants en soient notifiés et mis à jour automatiquement.
+Cela favorise une communication souple entre les objets qui changent d'état (appelés sujets) et ceux qui réagissent à
+ces changements (appelés observateurs).
 
 ## Avantages
 
@@ -46,6 +45,7 @@ Voici un exemple de structure UML de cet exemple.
 ![UML Observer](https://i.ibb.co/TB66b8x/UML-observer.png)
 
 ## Implémentation en PHP
+
 ```php
 <?php
 
@@ -120,6 +120,6 @@ $blog->publishPost("Pourquoi CS est mieux que Valorant ?", "-Valorant a été in
 
 ```
 
-Ce script php retourne : 
+Ce script php retourne :
 
 ![return observer script php](https://i.ibb.co/ZMbJjJv/return-observer.png)
