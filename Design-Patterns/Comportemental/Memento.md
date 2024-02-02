@@ -146,4 +146,7 @@ $textEditor->save();
 
 echo "Texte actuel mit à jour : " . $textEditor->getContent() . "\n";
 ```
-Ce script php retourne : ![return memento script php](https://i.ibb.co/r2sXb4n/return-memento.png)
+
+Ce script php retourne :
+
+![return memento script php](https://i.ibb.co/r2sXb4n/return-memento.png)

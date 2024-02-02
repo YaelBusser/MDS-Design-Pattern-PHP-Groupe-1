@@ -131,4 +131,7 @@ $yael->setMediator($mediator);
 
 $yael->sendMessage("Salut");
 ```
-Ce script php retourne : ![return mediator script php](https://i.ibb.co/2qSqb93/return-mediator.png)
+
+Ce script php retourne :
+
+![return mediator script php](https://i.ibb.co/2qSqb93/return-mediator.png)
