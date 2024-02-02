@@ -66,3 +66,10 @@ $implementorB = new ConcreteImplementorB();
 $abstractionB = new RefinedAbstraction($implementorB);
 echo $abstractionB->operation();
 ```
+
+## Rendu du code :
+```
+RefinedAbstraction: Extended operation with:
+Implémentation ConcreteImplementor A.RefinedAbstraction: Extended operation with:
+Implémentation ConcreteImplementor B.
+```
