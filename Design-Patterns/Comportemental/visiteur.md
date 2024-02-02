@@ -66,3 +66,9 @@ $visitor = new ConcreteVisitor();
 $elementA->accept($visitor);
 $elementB->accept($visitor);
 ```
+
+## Rendu du code :
+```
+ConcreteElementA operation visited by ConcreteVisitor
+ConcreteElementB operation visited by ConcreteVisitor
+```
