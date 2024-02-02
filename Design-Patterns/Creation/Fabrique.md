@@ -14,6 +14,7 @@ Donc permet de déléguer la responsabilité de l'instanciation des objets à de
 Par exemple :
 ## Représentation UML : 
 ![Alt text](https://refactoring.guru/images/patterns/diagrams/factory-method/solution1.png)
+
 ou pour correspondre à mon code :
 ![UmlCorrespondCode](https://media.discordapp.net/attachments/884824217110061117/1202904927186194452/image.png?ex=65cf2783&is=65bcb283&hm=4c1a37d4517a0307cb2ff64fede67bd947b7eb1b643041f9ef6c0e70359e6147&=&format=webp&quality=lossless&width=252&height=670)
 
