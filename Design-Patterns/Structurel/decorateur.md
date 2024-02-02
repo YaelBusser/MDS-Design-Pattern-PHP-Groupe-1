@@ -59,3 +59,8 @@ echo $decorator->operation();
 
 ?>
 ```
+
+## Rendu du code :
+```
+ConcreteDecorator(ConcreteComponent)
+```
