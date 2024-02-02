@@ -110,3 +110,18 @@ echo " \n";
 $authenticationHandler->handleRequest($request3);
 ```
 
+# Rendu du code
+```
+Authentification réussie.
+Données valides.
+Autorisations administratives accordées.
+
+Authentification réussie.
+Données invalides.
+
+Authentification réussie.
+Données valides.
+Autorisations insuffisantes.
+
+Échec de l'authentification.
+```
