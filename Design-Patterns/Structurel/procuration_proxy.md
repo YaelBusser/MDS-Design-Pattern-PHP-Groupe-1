@@ -1,5 +1,5 @@
 # Design pattern de manière globale :
-L'objectif est de de supporter un objet pour en contrôler l'accès
+L'objectif est de supporter un objet pour en contrôler l'accès
 
 # Avantages :
 - Restriction des opérations non autorisées
