@@ -69,5 +69,9 @@ $composite->add($leaf1);
 $composite->add($leaf2);
 
 echo $composite->operation();
+```
 
-
+## Rendu du code :
+```
+Branch(Leaf, Leaf)
+```
