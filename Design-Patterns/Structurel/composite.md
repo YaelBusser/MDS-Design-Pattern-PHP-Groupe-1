@@ -14,7 +14,7 @@ Le Composite est un design pattern structurel qui permet de composer des objets 
 3. **Surcharge de performance** : Peut entraîner une surcharge de performance si l'arbre est très profond ou très large.
 
 ## Représentation UML :
-![Image](https://media.discordapp.net/attachments/884824217110061117/1195362453538742283/image.png)
+![Image](https://cdn.discordapp.com/attachments/884824217110061117/1202895879351304203/image.png?ex=65cf1f16&is=65bcaa16&hm=db75d1976d27c2d07a9d2dbf814d0247530def8bfe58acb60db37b44e0c1ceec&)
 
 ## Implémentation en PHP :
 ```php
