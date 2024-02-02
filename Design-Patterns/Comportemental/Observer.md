@@ -120,4 +120,6 @@ $blog->publishPost("Pourquoi CS est mieux que Valorant ?", "-Valorant a été in
 
 ```
 
-Ce script php retourne : ![return observer script php](https://i.ibb.co/ZMbJjJv/return-observer.png)
+Ce script php retourne : 
+
+![return observer script php](https://i.ibb.co/ZMbJjJv/return-observer.png)
