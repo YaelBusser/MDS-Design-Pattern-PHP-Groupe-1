@@ -58,3 +58,9 @@ $productImage = new ProxyImage("image_haute_resolution.jpg");
 
 $productImage->display();
 ```
+
+# Rendu du code
+```
+Chargement de l'image: image_haute_resolution.jpg
+Affichage de l'image: image_haute_resolution.jpg
+```
