@@ -59,3 +59,5 @@ function utiliserMeuble(FabriqueMeubles $fabrique): void {
 echo "Utilisation d'un meuble moderne :\n";
 utiliserMeuble(new FabriqueModerne());
 ```
+Ce script php retourne : 
+![Alt text](https://media.discordapp.net/attachments/884824217110061117/1202929954803683338/image.png?ex=65cf3ed2&is=65bcc9d2&hm=de66a4d852f31f8b2e1a93ac8fca71564a4ab28aa0e30714382ecb175b26ed28&=&format=webp&quality=lossless)
