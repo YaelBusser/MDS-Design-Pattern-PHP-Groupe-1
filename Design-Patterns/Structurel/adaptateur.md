@@ -54,3 +54,8 @@ $adapter = new Adapter($adaptee);
 clientCode($adapter);
 ```
 
+## Rendu du code :
+```
+Adaptee: Spécificité de l'Adaptee.
+Adapter: (traduit) Spécificité de l'Adaptee.
+```
