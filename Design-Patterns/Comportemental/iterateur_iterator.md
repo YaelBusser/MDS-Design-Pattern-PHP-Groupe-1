@@ -112,3 +112,16 @@ while ($stackIterator->hasNext()) {
     echo $stackIterator->next() . "\n";
 }
 ```
+
+# Rendu du code
+```
+Liste:
+Item 1
+Item 2
+Item 3
+
+Pile:
+Item A
+Item B
+Item C
+```
