@@ -157,3 +157,10 @@ $remote->setCommand($fanOffCommand);
 $remote->pressButton();
 ```
 
+# Rendu du code
+```
+La lumière est allumée.
+La lumière est éteinte.
+Le ventilateur est allumé.
+Le ventilateur est éteint.
+```
