@@ -13,7 +13,7 @@ Le Décorateur est un design pattern structurel qui permet d'ajouter dynamiqueme
 2. **Surcharge** : L'utilisation excessive de décorateurs peut entraîner une surcharge de performance due à la profondeur accrue de la pile d'appels.
 
 ## Représentation UML :
-![Image](URL_de_l'image_UML_ici)
+![Image](https://cdn.discordapp.com/attachments/884824217110061117/1202932327030988880/image.png?ex=65cf4108&is=65bccc08&hm=fd6368a11a97bd6c6c20ab562133fad5594c635166cf6c8d7156d71dc4d80e91&)
 
 ## Implémentation en PHP :
 ```php
