@@ -41,7 +41,7 @@ Ces Design Patterns sont classés en trois catégories.
 #### [5. Mémento](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/Memento.md)
 #### [6. Observateur](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/Observer.md)
 #### [7. Etat](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/Etat.md)
-#### [8.Stratégie](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/Strategy.md)
+#### [8. Stratégie](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/Strategy.md)
 #### [9. Patron de méthode](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/PatronMethode.md)
 #### [10. Visiteur](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/visiteur.md)
 #### [11. Interpréteur](https://github.com/YaelBusser/MDS-Design-Pattern-PHP-Groupe-1/blob/main/Design-Patterns/Comportemental/interpreter.md)
