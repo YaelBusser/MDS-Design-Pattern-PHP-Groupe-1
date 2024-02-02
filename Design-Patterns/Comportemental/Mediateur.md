@@ -1,6 +1,6 @@
 # Design Pattern Médiateur (Mediator)
 
-## Design pattern de manière globale
+## Définition
 
 Le Médiateur est un patron de conception comportemental qui diminue le couplage entre les composants d’un programme, en
 les faisant communiquer indirectement, via un objet médiateur spécial.
@@ -131,3 +131,4 @@ $yael->setMediator($mediator);
 
 $yael->sendMessage("Salut");
 ```
+Ce script php retourne : ![return mediator script php](https://i.ibb.co/2qSqb93/return-mediator.png)
