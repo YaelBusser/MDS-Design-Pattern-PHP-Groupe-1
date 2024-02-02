@@ -44,6 +44,7 @@ Ces Design Patterns sont classés en trois catégories.
 #### 8.Stratégie
 #### 9. Patron de méthode
 #### 10. Visiteur
+#### 11. Interpréteur
     
 ## 6. Expliquer et présenter le design pattern de manière globale d'abord (conceptuellement parlant, théoriquement parlant).
 
