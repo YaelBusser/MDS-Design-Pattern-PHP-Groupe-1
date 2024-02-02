@@ -113,3 +113,15 @@ echo $tshirt2->displayInfo() . PHP_EOL;
 echo $tshirt3->displayInfo() . PHP_EOL;
 ```
 
+# Rendu du code
+```
+List Collection:
+Item 1
+Item 2
+Item 3
+
+Stack Collection:
+Item A
+Item B
+Item C
+```
