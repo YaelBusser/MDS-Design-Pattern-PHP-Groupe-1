@@ -13,7 +13,7 @@ Le Façade est un design pattern structurel qui fournit une interface simplifié
 2. **Limitation de fonctionnalités** : Les clients peuvent être limités aux fonctionnalités fournies par la façade, sans accès direct aux fonctionnalités complexes sous-jacentes.
 
 ## Représentation UML :
-![Image Façade UML](URL_vers_l'image_UML)
+![Image Façade UML](https://media.discordapp.net/attachments/884824217110061117/1202972431866798111/image.png?ex=65cf6661&is=65bcf161&hm=dd4840f904419652582709f41a41887f289f59f8ff03361037806924b05ae193&=&format=webp&quality=lossless&width=887&height=588)
 
 ## Implémentation en PHP :
 ```php
