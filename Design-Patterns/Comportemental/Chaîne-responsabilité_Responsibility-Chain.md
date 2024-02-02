@@ -67,8 +67,27 @@ class AuthorizationHandler implements Handler {
     }
 }
 
+// Création des demandes
 $request = [
     'authenticated' => true,
+    'dataValid' => true,
+    'isAdmin' => true,
+];
+
+$request1 = [
+    'authenticated' => true,
+    'dataValid' => false,
+    'isAdmin' => true,
+];
+
+$request2 = [
+    'authenticated' => true,
+    'dataValid' => true,
+    'isAdmin' => false,
+];
+
+$request3 = [
+    'authenticated' => false,
     'dataValid' => true,
     'isAdmin' => true,
 ];
@@ -77,9 +96,17 @@ $authenticationHandler = new AuthenticationHandler();
 $dataValidationHandler = new DataValidationHandler();
 $authorizationHandler = new AuthorizationHandler();
 
+// Création de la chaîne
 $authenticationHandler->setNextHandler($dataValidationHandler);
 $dataValidationHandler->setNextHandler($authorizationHandler);
 
+echo " \n";
 $authenticationHandler->handleRequest($request);
+echo " \n";
+$authenticationHandler->handleRequest($request1);
+echo " \n";
+$authenticationHandler->handleRequest($request2);
+echo " \n";
+$authenticationHandler->handleRequest($request3);
 ```
 
