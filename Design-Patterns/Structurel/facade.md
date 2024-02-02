@@ -53,3 +53,12 @@ class Facade {
 $facade = new Facade(new SubsystemOne(), new SubsystemTwo());
 echo $facade->operation();
 ```
+## Rendu du code :
+```
+Facade initializes subsystems:
+SubsystemOne: Ready
+SubsystemTwo: Get set
+Facade orders subsystems to perform the action:
+SubsystemOne: Go!
+SubsystemTwo: Go!
+```
