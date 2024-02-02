@@ -14,9 +14,54 @@ Donc, les sous-classes peuvent redéfinir certaines étapes de l'algorithme sans
 - L'implémentation par défaut de certaines étapes peut limiter la flexibilité de l'algorithme.
 
 ## Représentation UML : 
-![Alt text]()
+![Alt text](https://media.discordapp.net/attachments/884824217110061117/1202927177599946773/image.png?ex=65cf3c3c&is=65bcc73c&hm=38bf29938defaf4bfdb89522409320b7b940ea2924ad0d181f04fc522ba49633&=&format=webp&quality=lossless)
 
 ## Implémentation en PHP :
 ``` php
+<?php
 
+// Classe abstraite avec le patron de méthode
+abstract class Algorithme {
+    // Le Patron de Méthode (Template Method)
+    public function execute(): void {
+        $this->etape1();
+
+        $this->etape2();
+
+        $this->etape3();
+    }
+
+    protected abstract function etape1(): void;
+
+    protected function etape2(): void {
+        // Par défaut, une implémentation générique
+        echo "Implémentation générique de l'étape 2\n";
+    }
+
+    protected abstract function etape3(): void;
+}
+
+// Implémentation concrète
+class AlgorithmeConcret extends Algorithme {
+    // Redéfinition de l'étape 1 pour une implémentation spécifique
+    protected function etape1(): void {
+        echo "Implémentation spécifique de l'étape 1\n";
+    }
+
+    // Étape 2 reste inchangée, utilisant l'implémentation générique de la classe mère
+
+    // Redéfinition de l'étape 3 pour une implémentation spécifique
+    protected function etape3(): void {
+        echo "Implémentation spécifique de l'étape 3\n";
+    }
+}
+
+// Client
+function utiliserAlgorithme(Algorithme $algorithme): void {
+    echo "Utilisation de l'algorithme :\n";
+    $algorithme->execute();
+}
+
+// Simulation
+utiliserAlgorithme(new AlgorithmeConcret());
 ```
